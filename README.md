@@ -66,7 +66,7 @@ To begin exploring the AXI4-Lite interface protocol:
 
      cd Axi4-lite
 
-  **3)** **For Verilaor:**
+  **3)** **For Verilator:**
       Run make -> then 
       make wave
 
